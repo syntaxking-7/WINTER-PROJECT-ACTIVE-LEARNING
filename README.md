@@ -1,27 +1,71 @@
-# WINTER-PROJECT-ACTIVE-LEARNING
 # Resources
 
+## Week 0: Installation Guides
+
+### Python 3
+- **Windows**: [How to Install Python 3 on Windows](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+- **Ubuntu**: [How to Install Python 3 on Ubuntu](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
+- **MacOS**: [How to Install Python 3 on MacOS](https://flaviocopes.com/python-installation-macos/)
+
+### Anaconda
+- **Windows**: [How to Install Anaconda on Windows](https://docs.anaconda.com/anaconda/install/windows/)
+- **Ubuntu**: [How to Install Anaconda on Ubuntu](https://docs.anaconda.com/anaconda/install/linux/)
+- **MacOS**: [How to Install Anaconda on MacOS](https://docs.anaconda.com/anaconda/install/mac-os)
+
+---
+
 ## Week 1: Getting Started Tutorials (Mandatory)
-- **Python**: [Python Tutorial](https://www.com/youtube/watch?v=vLqTf2b6GZw)
-- **NumPy**: [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-- **Pandas**: [Pandas Tutorial](https://www.youtube.com/watch?v=RhEjmHeDNoA)
-- **Scikit-learn**: [Scikit-learn Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=4s)
-- **Matplotlib**: [Matplotlib Tutorial](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+
+### Git and GitHub
+- **Beginner-friendly video**: [Git & GitHub Tutorial](https://youtu.be/tRZGeaHPoaw?si=06GZKYd83iAvLx8A)
+- **Git Cheat Sheet**: [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- **GitHub Desktop Tutorial**:
+  - [GitHub Desktop Overview](https://www.youtube.com/watch?v=Hu9wpHHJAPU)
+  - [How to use GitHub Desktop](https://youtu.be/ufKRYe8ZPaw?si=cHWNFgpyeE2W2bN5)
+
+### Markdown
+- **Short Introduction Video**: [Markdown for Beginners (8-min video)](https://youtu.be/2JE66WFpaII?si=5eDA-wD6sj0Xv86M)
+- **Markdown Cheat Sheet**: [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Jupyter Notebooks
+- **Quick Introduction**: [Real Python Jupyter Notebook Guide](https://realpython.com/jupyter-notebook-introduction/)
+
+### Python and its Libraries
+
+- **Python**:
+  - [Python Tutorial Playlist (Videos 2-10)](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+  - [Python Basics](https://youtu.be/rfscVS0vtbw?si=rFAHcBNnA-_JIkBY)
+  - **Official Python Documentation**: [Python Docs](https://docs.python.org/3/)
+  
+- **NumPy**:
+  - [NumPy Quickstart Guide](https://numpy.org/doc/stable/user/quickstart.html)
+  - [NumPy Tutorial by W3Schools](https://www.w3schools.com/python/numpy/default.asp)
+  - [CS231n Python and NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+
+- **Pandas**:
+  - **Official Pandas Documentation**: [Pandas Docs](https://pandas.pydata.org/docs/index.html)
+  - [Pandas Tutorial by W3Schools](https://www.w3schools.com/python/pandas/default.asp)
+
+- **Matplotlib**:
+  - **Official Matplotlib Documentation**: [Matplotlib Docs](https://matplotlib.org/stable/index.html)
+  - [Matplotlib Tutorial by W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
 
 ### Detailed Courses (Recommended)
-- **Textual**:
-  - [W3Schools](https://www.w3schools.com) - Sections on Python, NumPy, Pandas, Scikit-learn, and Matplotlib
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Sections on Python, NumPy, Pandas, Scikit-learn, and Matplotlib
-- **Videos**:
-  - [Python Basics](https://www.youtube.com/watch?v=rfscVS0vtbw)
-  - [NumPy Basics](https://youtu.be/QUT1VHiLmmI?si=eO_Ruo_2x07nfFmr)
-  - [Pandas Basics](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PLosiE80TeTsWmV9i9c58mdDCSskIFdDS)
-  - [Python, NumPy, and Pandas](https://youtu.be/LHBE6Q9XlzI?si=pnb9lZJ3Ju_Xd-RD)
-  - [Scikit-learn Basics](https://youtu.be/pqNCD_5r0IU?si=nO2tqFm37cGgdlcX)
-  - [Matplotlib Basics](https://youtu.be/3Xc3CA655Y4?si=2Sk6fwNtZMoGnaLG)
+
+#### Textual Resources
+- [W3Schools](https://www.w3schools.com) - Sections on Python, NumPy, Pandas, Scikit-learn, and Matplotlib
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Sections on Python, NumPy, Pandas, Scikit-learn, and Matplotlib
+
+#### Video Resources
+- [Python Basics](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [NumPy Basics](https://youtu.be/QUT1VHiLmmI?si=eO_Ruo_2x07nfFmr)
+- [Pandas Basics](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PLosiE80TeTsWmV9i9c58mdDCSskIFdDS)
+- [Python, NumPy, and Pandas](https://youtu.be/LHBE6Q9XlzI?si=pnb9lZJ3Ju_Xd-RD)
+- [Scikit-learn Basics](https://youtu.be/pqNCD_5r0IU?si=nO2tqFm37cGgdlcX)
+- [Matplotlib Basics](https://youtu.be/3Xc3CA655Y4?si=2Sk6fwNtZMoGnaLG)
 
 ### Assignment 1: 
-- Complete 10-15 questions manipulating datasets and playing around with the libraries.
+- Complete 10-15 questions manipulating datasets and working with the libraries listed above.
 
 ---
 
@@ -47,7 +91,7 @@
 
 ## Week 3: Active Learning Methodologies
 
-### Research Papers on Query Strategies:
+### Research Papers on Query Strategies
 - [Active Learning: TR1648](https://research.cs.wisc.edu/techreports/2009/TR1648.pdf)
 - [Active Learning Paper: 2203.13450](https://arxiv.org/pdf/2203.13450.pdf)
 
