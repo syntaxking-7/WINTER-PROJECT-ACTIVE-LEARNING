@@ -64,6 +64,11 @@
 - [Scikit-learn Basics](https://youtu.be/pqNCD_5r0IU?si=nO2tqFm37cGgdlcX)
 - [Matplotlib Basics](https://youtu.be/3Xc3CA655Y4?si=2Sk6fwNtZMoGnaLG)
 
+### Session Link: 
+https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drivesdk
+
+
+
 ### Assignment 1: 
 - Complete 10-15 questions manipulating datasets and working with the libraries listed above.
 
