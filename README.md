@@ -97,7 +97,8 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 ## Week 3: Active Learning Methodologies
 
 ### Active learning query strategies : 
-- (https://towardsdatascience.com/active-learning-overview-strategies-and-uncertainty-measures-521565e0b0b)
+- https://towardsdatascience.com/active-learning-overview-strategies-and-uncertainty-measures-521565e0b0b
+- https://neptune.ai/blog/active-learning-strategies-tools-use-cases
 
 ### Research Papers on Query Strategies
 - [Active Learning: TR1648](https://research.cs.wisc.edu/techreports/2009/TR1648.pdf)
