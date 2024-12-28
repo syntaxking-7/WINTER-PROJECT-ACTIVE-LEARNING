@@ -84,10 +84,12 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 
 ### Classification
 - [Artificial Neural Network Implementation using NumPy](https://towardsdatascience.com/artificial-neural-network-implementation-using-numpy-and-classification-of-the-fruits360-image-3c56affa4491)
+- [Convolutional Neural Network Using PyTorch](https://www.geeksforgeeks.org/building-a-convolutional-neural-network-using-pytorch/)
 
 ### PyTorch Basics
 - [PyTorch Basics in 4 Minutes](https://medium.com/dsnet/pytorch-basics-in-4-minutes-c7814fa5f03d)
 - [Pytorch Tutorial](https://www.geeksforgeeks.org/pytorch-learn-with-examples/)
+- [PyTorch Tutorial](https://www.tutorialspoint.com/pytorch/index.htm)
 - [PyTorch Tutorial - Develop Deep Learning Models](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)
 - [PyTorch Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 
