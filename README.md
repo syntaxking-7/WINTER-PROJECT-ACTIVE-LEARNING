@@ -89,6 +89,7 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 - [PyTorch Basics in 4 Minutes](https://medium.com/dsnet/pytorch-basics-in-4-minutes-c7814fa5f03d)
 - [Pytorch Tutorial](https://www.geeksforgeeks.org/pytorch-learn-with-examples/)
 - [PyTorch Tutorial - Develop Deep Learning Models](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)
+- [PyTorch Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 
 ### Assignment 2:
 - Implement a PyTorch classifier on a basic dataset.
