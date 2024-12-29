@@ -84,10 +84,16 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 
 ### Classification
 - [Artificial Neural Network Implementation using NumPy](https://towardsdatascience.com/artificial-neural-network-implementation-using-numpy-and-classification-of-the-fruits360-image-3c56affa4491)
-
+- [Convolutional Neural Network Using PyTorch](https://www.geeksforgeeks.org/building-a-convolutional-neural-network-using-pytorch/)
+- [CNN Visualisation](https://setosa.io/ev/image-kernels/)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+  
 ### PyTorch Basics
 - [PyTorch Basics in 4 Minutes](https://medium.com/dsnet/pytorch-basics-in-4-minutes-c7814fa5f03d)
+- [Pytorch Tutorial](https://www.geeksforgeeks.org/pytorch-learn-with-examples/)
+- [PyTorch Tutorial](https://www.tutorialspoint.com/pytorch/index.htm)
 - [PyTorch Tutorial - Develop Deep Learning Models](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)
+- [PyTorch Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 
 ### Assignment 2:
 - Implement a PyTorch classifier on a basic dataset.
@@ -96,9 +102,16 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 
 ## Week 3: Active Learning Methodologies
 
+### Active learning query strategies : 
+- https://towardsdatascience.com/active-learning-overview-strategies-and-uncertainty-measures-521565e0b0b
+- https://neptune.ai/blog/active-learning-strategies-tools-use-cases
+
 ### Research Papers on Query Strategies
 - [Active Learning: TR1648](https://research.cs.wisc.edu/techreports/2009/TR1648.pdf)
 - [Active Learning Paper: 2203.13450](https://arxiv.org/pdf/2203.13450.pdf)
+
+### Session Link: 
+https://drive.google.com/file/d/1GZkPR4OYiUP5eFaTbki-qPJabcsY-hH1/view?usp=drivesdk
 
 ### Assignment 3:
 - Implement Active Learning using the query strategies discussed in the papers and evaluate the performance.
