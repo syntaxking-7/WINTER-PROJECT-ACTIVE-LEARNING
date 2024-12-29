@@ -110,5 +110,8 @@ https://drive.google.com/file/d/1GWDBJ56N2etZZhQhrXXRs5LxGdjYxbXQ/view?usp=drive
 - [Active Learning: TR1648](https://research.cs.wisc.edu/techreports/2009/TR1648.pdf)
 - [Active Learning Paper: 2203.13450](https://arxiv.org/pdf/2203.13450.pdf)
 
+### Session Link: 
+https://drive.google.com/file/d/1GZkPR4OYiUP5eFaTbki-qPJabcsY-hH1/view?usp=drivesdk
+
 ### Assignment 3:
 - Implement Active Learning using the query strategies discussed in the papers and evaluate the performance.
